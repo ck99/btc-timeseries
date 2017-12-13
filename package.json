@@ -1,0 +1,15 @@
+{
+  "name": "bitstamp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "eventemitter2": "^5.0.0",
+    "format-currency": "^1.0.0",
+    "moment": "^2.19.4",
+    "pusher-js": "^4.2.1",
+    "pusher-node-client": "^0.0.8",
+    "rotating-file-stream": "^1.3.4"
+  }
+}
