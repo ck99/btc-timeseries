@@ -1,5 +1,5 @@
 var recorder = require('./lib/recorder');
-var recordingStream = recorder('bitstamp-trades', 'logs/', '10M', '1h');
+var recordingStream = recorder('bitstamp-trades', 'logs/', '10M', '12h');
 var moment = require('moment');
 var formatCurrency = require('format-currency');
 
